@@ -14,4 +14,11 @@ public class Addittion {
  public int add(int a, int b){
     
        return a + b;
-}
+} class AreaTriangle {
+   public static void main(String args[]) {  
+   
+     int base =
+      int base =
+      int base base* height)/2;
+      System.out.println("Area of Triangle is: " + area);      
+    }
