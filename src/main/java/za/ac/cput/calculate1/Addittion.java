@@ -11,5 +11,7 @@ package za.ac.cput.calculate1;
  * @std:217089062
  */
 public class Addittion {
+ public int add(int a, int b){
     
+       return a + b;
 }
