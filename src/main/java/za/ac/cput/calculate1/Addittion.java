@@ -7,8 +7,11 @@ package za.ac.cput.calculate1;
 
 /**
  *
- * @author Anamee
+ * @author:Zukisa Molisi
+ * @std:217089062
  */
 public class Addittion {
+ public int add(int a, int b){
     
+       return a + b;
 }
